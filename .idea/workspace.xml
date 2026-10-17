@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7447b94-250f-46db-9f64-fa82fe9f7e27" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/ContractList.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Irudini" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Irudini" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Irudinii-Wijayakoon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LALCO-Holdings/LALCO-QA-Automations.git&quot;,
+    &quot;accountId&quot;: &quot;99e9fdd0-5430-4faa-8d64-dcbe341dd26f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="32VLxmnv4MhfCPheUAqxJ6urrJZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankStatement.executor": "Run",
+    "Application.CMEdit.executor": "Run",
+    "Application.CarDealerShop.executor": "Run",
+    "Application.CarMakes.executor": "Run",
+    "Application.CarMakesCreate.executor": "Run",
+    "Application.CarMakesEdit.executor": "Run",
+    "Application.CarMakesSearch.executor": "Run",
+    "Application.CarModels.executor": "Run",
+    "Application.CarModelsCreate.executor": "Run",
+    "Application.CarModelsEdit.executor": "Run",
+    "Application.Collection.executor": "Run",
+    "Application.ContractList.executor": "Run",
+    "Application.CorporateCustomer.executor": "Run",
+    "Application.Customer.executor": "Run",
+    "Application.DistrictEdit.executor": "Run",
+    "Application.Districts.executor": "Run",
+    "Application.Guarantor.executor": "Debug",
+    "Application.IndividualCustomer.executor": "Run",
+    "Application.LMSLogin.executor": "Run",
+    "Application.LMSTest.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.No1Auto.executor": "Run",
+    "Application.No1Auto2.executor": "Run",
+    "Application.No1AutoNew.executor": "Run",
+    "Application.No1AutoViewPage.executor": "Run",
+    "Application.ProvinceEdit.executor": "Run",
+    "Application.Provinces.executor": "Run",
+    "Application.VehicleBodyType.executor": "Run",
+    "Application.VehicleDealerShop.executor": "Run",
+    "Application.VehiclePriceUpdate.executor": "Debug",
+    "Application.VehicleValuation.executor": "Debug",
+    "Application.Vehicles.executor": "Run",
+    "Application.VillageEdit.executor": "Run",
+    "Application.Villages.executor": "Run",
+    "Application.VoidRequest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Irudini",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Irudini/IdeaProjects/LMSV2",
+    "onboarding.tips.debug.path": "C:/Users/Irudini/IdeaProjects/MyFirstAutomation/src/main/java/com/automation/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="Irudini" />
+    </force-push-targets>
+  </component>
+  <component name="RunManager" selected="Application.Collection">
+    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection" />
+      <module name="LMSV2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContractList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContractList" />
+      <module name="LMSV2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No1Auto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No1Auto" />
+      <module name="LMSV2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No1AutoViewPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No1AutoViewPage" />
+      <module name="LMSV2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="No1Auto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No1Auto" />
+      <module name="LMSV2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleValuation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VehicleValuation" />
+      <module name="LMSV2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Collection" />
+        <item itemvalue="Application.VehicleValuation" />
+        <item itemvalue="Application.No1AutoViewPage" />
+        <item itemvalue="Application.No1Auto" />
+        <item itemvalue="Application.ContractList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7447b94-250f-46db-9f64-fa82fe9f7e27" name="Changes" comment="" />
+      <created>1757501048273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757501048273</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="f3c152da-59ac-473f-9ff4-fa1df4bbe016" value="TOOL_WINDOW" />
+        <entry key="c68f33c4-9ff2-46f4-b21a-01a3e0f9e251" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c68f33c4-9ff2-46f4-b21a-01a3e0f9e251">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="f3c152da-59ac-473f-9ff4-fa1df4bbe016">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/automation/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/No1Auto.java</url>
+          <line>199</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/VehicleValuation.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LMSV2$Collection.ic" NAME="Collection Coverage Results" MODIFIED="1771474440612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

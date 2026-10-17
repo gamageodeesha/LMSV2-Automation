@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]">
+  <test thread-count="5" name="Command line test(failed)">
+    <classes>
+      <class name="RealEstateValidationCheck">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyRequiredFieldValidations"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- RealEstateValidationCheck -->
+      <class name="EditValuationTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="editValuationAndCompleteAssessment"/>
+        </methods>
+      </class> <!-- EditValuationTest -->
+      <class name="ListValuationTest">
+        <methods>
+          <include name="searchAndDeleteValuation"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- ListValuationTest -->
+      <class name="AddValuationTest">
+        <methods>
+          <include name="addRealEstateValuation"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- AddValuationTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
